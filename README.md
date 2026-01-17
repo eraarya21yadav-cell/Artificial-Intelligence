@@ -1,2 +1,2 @@
 # Artificial-Intelligence
-An AI repo for you
+This AI repo is for you to learn and grow in AI python skills.
